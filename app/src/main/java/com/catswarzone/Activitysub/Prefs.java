@@ -56,8 +56,8 @@ public class Prefs extends PreferenceActivity {
         setPreferenceScreen(screen);
 
         ListPreference speed = new ListPreference(this);
-        speed.setTitle("Submarine Speed");
-        speed.setSummary("How fast should the submarines move?");
+        speed.setTitle("Creature Speed");
+        speed.setSummary("How fast should the creatures move?");
         speed.setKey(SUB_SPEED_PREF);
         String[] labels = {"Fast", "Medium", "Slow"};
         String[] values = {"50", "10", "5"};

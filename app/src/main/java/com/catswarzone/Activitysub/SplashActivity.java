@@ -42,7 +42,7 @@ public class SplashActivity extends Activity {
             }
             if (aboutButton.contains(x,y)) {
                 AlertDialog.Builder ad = new AlertDialog.Builder(this);
-                ad.setMessage("When you shot the items you have to yell 'Oh shoot!'");
+                ad.setMessage("When you shot the items you have to say 'Meaw!'");
                 ad.setTitle("General rule").show();
             }
             if (playButton.contains(x,y)) {
