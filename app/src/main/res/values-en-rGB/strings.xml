@@ -1,0 +1,40 @@
+<resources>
+	<string name="app_name">Cat\'s War Zone</string>
+	<string name="about">A long time ago in a galaxy far, far away....</string>
+	<string name="congrats">Nice, you\'ve got the highest score. Play again?</string>
+	<string name="kept_high_score">You did okay. Play again?</string>
+	<string name="play_again_yes">yup</string>
+	<string name="play_again_no">nope</string>
+	<string name="game_over">Meaw...</string>
+	<string name="ok">Ok</string>
+
+	<string name="sound_pref_title">Sound effects</string>
+	<string name="sound_pref_summary_on">Sounds effects will be played</string>
+	<string name="sound_pref_summary_off">Sounds effects will not be played</string>
+
+	<string name="cannon_pref_title">Rapid-fire Cannon</string>
+	<string name="cannon_pref_summary_on">Cannons will fire at each tap</string>
+	<string name="cannon_pref_summary_off">Only one missile at a time</string>
+
+	<string name="dc_pref_title">Rapid-fire Depth Charges</string>
+	<string name="dc_pref_summary_on">Depth charges will drop at each tap</string>
+	<string name="dc_pref_summary_off">Only one depth charge at a time</string>
+
+	<string name="sub_count_pref_title">How many upper-creatures?</string>
+	<string name="sub_count_pref_summary">Number of upper-side creatures on-screen at a time</string>
+
+	<string name="airplane_count_pref_title">How many lower-creatures?</string>
+	<string name="airplane_count_pref_summary">Number of lower-side creatures on-screen at a time</string>
+
+	<string name="sub_speed_pref_title">Upper-fish speed</string>
+	<string name="sub_speed_pref_summary">How fast do fishes move?</string>
+
+	<string name="airplane_speed_pref_title">Lower-fish speed</string>
+	<string name="airplane_speed_pref_summary">How fast do fishes move?</string>
+	<string-array name="speed_options">
+		<item>Fast</item>
+		<item>Medium</item>
+		<item>Slow</item>
+	</string-array>
+
+</resources>

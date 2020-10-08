@@ -1,0 +1,39 @@
+<resources>
+	<string name="app_name">ネコネコ大戦争</string>
+	<string name="about">遠い昔、遥か彼方の銀河系で...</string>
+	<string name="congrats">やったね、ハイスコア！もう一回やる？</string>
+	<string name="kept_high_score">まあまあかな。もう一回やる？</string>
+	<string name="play_again_yes">うん</string>
+	<string name="play_again_no">やらない</string>
+	<string name="game_over">ゲームオーバー</string>
+	<string name="ok">へえ…</string>
+
+	<string name="sound_pref_title">サウンドエフェクト</string>
+	<string name="sound_pref_summary_on">サウンドエフェクトが流れます</string>
+	<string name="sound_pref_summary_off">サウンドエフェクトはミュートになります</string>
+
+	<string name="cannon_pref_title">弾丸ラピッドファイヤーシステム</string>
+	<string name="cannon_pref_summary_on">たくさんミサイルを撃てます</string>
+	<string name="cannon_pref_summary_off">ひとつのミサイルしか撃てません</string>
+
+	<string name="dc_pref_title">地雷ラピッドファイヤーシステム</string>
+	<string name="dc_pref_summary_on">地雷をたくさん落とせます</string>
+	<string name="dc_pref_summary_off">ひとつの地雷しか落とせません</string>
+
+	<string name="sub_count_pref_title">下画面の魚数</string>
+	<string name="sub_count_pref_summary">いくつの潜水艦を表示させますか？</string>
+
+	<string name="airplane_count_pref_title">上画面の魚数</string>
+	<string name="airplane_count_pref_summary">いくつの戦闘機を表示させますか？</string>
+
+	<string name="sub_speed_pref_title">下画面の魚スピード</string>
+	<string name="sub_speed_pref_summary">どのくらい速く魚を表示させますか？</string>
+
+	<string name="airplane_speed_pref_title">上画面の魚スピード</string>
+	<string name="airplane_speed_pref_summary">どのくらい速く魚を表示させますか？</string>
+	<string-array name="speed_options">
+		<item>はやい</item>
+		<item>ふつう</item>
+		<item>スロー</item>
+	</string-array>
+</resources>
