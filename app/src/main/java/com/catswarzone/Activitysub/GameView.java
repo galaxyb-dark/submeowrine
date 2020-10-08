@@ -70,7 +70,7 @@ public class GameView extends View implements TickListener {
         //highScore = 0;
         howManyPoints = 0;
 
-        song = MediaPlayer.create(getContext(), R.raw.ocean_waves);
+        song = MediaPlayer.create(getContext(), R.raw.banbado_piano);
         song.setLooping(true);
 
         dcsound = MediaPlayer.create(getContext(), R.raw.depth_charge);
