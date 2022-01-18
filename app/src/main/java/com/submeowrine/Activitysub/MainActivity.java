@@ -1,4 +1,4 @@
-package com.catswarzone.Activitysub;
+package com.submeowrine.Activitysub;
 
 import android.content.Intent;
 import android.os.Bundle;

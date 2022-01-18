@@ -1,4 +1,4 @@
-package com.catswarzone.Activitysub;
+package com.submeowrine.Activitysub;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
-import com.catswarzone.R;
+import com.submeowrine.R;
 
 public class SplashActivity extends Activity {
 

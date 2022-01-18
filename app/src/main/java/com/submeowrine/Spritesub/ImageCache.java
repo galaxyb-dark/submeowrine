@@ -1,10 +1,10 @@
-package com.catswarzone.Spritesub;
+package com.submeowrine.Spritesub;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-import com.catswarzone.R;
+import com.submeowrine.R;
 
 public class ImageCache {
 

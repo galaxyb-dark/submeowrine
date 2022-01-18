@@ -1,10 +1,10 @@
-package com.catswarzone.Spritesub;
+package com.submeowrine.Spritesub;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 
-import static com.catswarzone.Spritesub.Direction.LEFT_TO_RIGHT;
-import static com.catswarzone.Spritesub.Direction.RIGHT_TO_LEFT;
+import static com.submeowrine.Spritesub.Direction.LEFT_TO_RIGHT;
+import static com.submeowrine.Spritesub.Direction.RIGHT_TO_LEFT;
 
 public abstract class Enemy extends Sprite {
     protected Size size;

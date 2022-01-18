@@ -1,4 +1,4 @@
-package com.catswarzone.Spritesub;
+package com.submeowrine.Spritesub;
 
 import android.graphics.Canvas;
 import android.graphics.Color;

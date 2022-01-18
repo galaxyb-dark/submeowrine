@@ -1,11 +1,11 @@
-package com.catswarzone.Spritesub;
+package com.submeowrine.Spritesub;
 
 import android.graphics.Bitmap;
 
-import static com.catswarzone.Spritesub.Direction.LEFT_TO_RIGHT;
-import static com.catswarzone.Spritesub.Direction.RIGHT_TO_LEFT;
-import static com.catswarzone.Spritesub.Size.MEDIUM;
-import static com.catswarzone.Spritesub.Size.SMALL;
+import static com.submeowrine.Spritesub.Direction.LEFT_TO_RIGHT;
+import static com.submeowrine.Spritesub.Direction.RIGHT_TO_LEFT;
+import static com.submeowrine.Spritesub.Size.MEDIUM;
+import static com.submeowrine.Spritesub.Size.SMALL;
 
 public class Submarine extends Enemy {
 

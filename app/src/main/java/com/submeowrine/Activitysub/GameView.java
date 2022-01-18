@@ -1,4 +1,4 @@
-package com.catswarzone.Activitysub;
+package com.submeowrine.Activitysub;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -13,17 +13,17 @@ import android.os.Message;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.catswarzone.R;
-import com.catswarzone.Spritesub.Airplane;
-import com.catswarzone.Spritesub.Battleship;
-import com.catswarzone.Spritesub.DepthCharge;
-import com.catswarzone.Spritesub.Direction;
-import com.catswarzone.Spritesub.ImageCache;
-import com.catswarzone.Spritesub.Missile;
-import com.catswarzone.Spritesub.Timer;
-import com.catswarzone.Spritesub.Sprite;
-import com.catswarzone.Spritesub.Submarine;
-import com.catswarzone.Spritesub.TickListener;
+import com.submeowrine.R;
+import com.submeowrine.Spritesub.Airplane;
+import com.submeowrine.Spritesub.Battleship;
+import com.submeowrine.Spritesub.DepthCharge;
+import com.submeowrine.Spritesub.Direction;
+import com.submeowrine.Spritesub.ImageCache;
+import com.submeowrine.Spritesub.Missile;
+import com.submeowrine.Spritesub.Timer;
+import com.submeowrine.Spritesub.Sprite;
+import com.submeowrine.Spritesub.Submarine;
+import com.submeowrine.Spritesub.TickListener;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

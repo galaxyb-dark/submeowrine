@@ -1,4 +1,4 @@
-package com.catswarzone.Spritesub;
+package com.submeowrine.Spritesub;
 
 public interface TickListener {
 
