@@ -1,5 +1,5 @@
 # Submeowrine
-![Gameplay screenshot](./app/src/main/res/raw/screenshot.png)
+![Gameplay screenshot](./app/src/main/res/raw/gameplay.png)
 
 Sub-'meow'-rine is a 2D shooting game published on Google Play. During the gameplay, you will control a small kitten to defeat all the enemies in the deep ocean. Download now from the link below and compete with your friends!
 
